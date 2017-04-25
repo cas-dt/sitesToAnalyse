@@ -98,14 +98,14 @@ Schönes Storytelling-Beispiel. Rein durch Scrollen treibt man die Geschichte im
 
 [Hello Monday](http://hellomonday.com/home)
 
-– Navigation mit Overlay
+- Navigation mit Overlay
 – Übergänge mit Überblenden, Animation Typo
 
 [Edita´s Casting](http://www.editoskastingas.lt/en)
 
 Das Portrait auf der Startseite:
 
-– Unterteilung in Slices
+- Unterteilung in Slices
 – Automatischer Bildwechsel und auch Manuelle Steuerung möglich
 – Unterschiedliche Aktion bei Clicken oder Scrollen
 
