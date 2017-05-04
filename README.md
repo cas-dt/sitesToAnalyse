@@ -45,7 +45,8 @@ Bildschirmschoner. Text scrollt, Logo bleibt stehen, liegt über Text.
 
 ## Ralph
 
-[Qubik, Joe Gilmore](http://www.qubik.com, http://www.qubik.com/rkss-cut-off)
+- [Qubik, Joe Gilmore, 1](http://www.qubik.com)
+- [Qubik, Joe Gilmore, 2](http://www.qubik.com/rkss-cut-off)
 
 Da sind zwei Sachen für mich von Interesse:
 
