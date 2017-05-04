@@ -27,33 +27,36 @@ Cool gemacht :-)
 
 ## Susanne
 
-* [triebwerk](https://triebwerk.bff.de)  
+[triebwerk](https://triebwerk.bff.de)  
 
 Mausfunktion
 
-* [number04](http://number04.com)  
+[number04](http://number04.com)  
 
 Verschiebung der Flächen beim Scrollen, Flächen die auseinanderklappen
 
-* [lecafenoirstudio](https://lecafenoirstudio.com)  
+[lecafenoirstudio](https://lecafenoirstudio.com)  
+
 Seitenübergänge
 
-* [arthurjunior](http://arthurjunior.ch/de)  
+[arthurjunior](http://arthurjunior.ch/de)  
 
 Bildschirmschoner. Text scrollt, Logo bleibt stehen, liegt über Text.
 
 ## Ralph
 
-[Qubik, Joe Gilmore] (http://www.qubik.com, http://www.qubik.com/rkss-cut-off)
+[Qubik, Joe Gilmore](http://www.qubik.com, http://www.qubik.com/rkss-cut-off)
 
 Da sind zwei Sachen für mich von Interesse:
 
 - Wie kann der Inhalt 2- oder mehrspaltig abgebildet werden?
 - Wäre es auf der Übersichtsseite des Inhalts schon möglich eine Art Slideshow in den Bildern zu machen (gleich wie bei einer Projektseite)?
 
-- [Pan Records] (http://p-a-n.org/releases)
-- [Roma Publications] (https://www.romapublications.org/Roma151-300.html)
-- [Studio Build] (http://studio.build/work/brand-identity/nike-track-and-field-2)
+Und:
+
+- [Pan Records](http://p-a-n.org/releases)
+- [Roma Publications](https://www.romapublications.org/Roma151-300.html)
+- [Studio Build](http://studio.build/work/brand-identity/nike-track-and-field-2)
 
 Bei diesen Websites können Inhalte auf- und zugeklappt werden. Bei Studio Build zB. «Show Info / Hide Info». Wie wird das gemacht?
 
