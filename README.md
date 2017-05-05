@@ -133,6 +133,10 @@ Best in usability 2017: [bestofswissweb.ch](http://www.bestofswissweb.ch)
 
 Drag and Drop / Overlay Menue Animationen sind sehr hübsch gemacht.
 
+[Marianne Brandt Wettbwerbe](http://marianne-brandt-wettbewerb.de/de/home.html)
+
+[Lotta Nieminen](http://www.lottanieminen.com/)
+
 ## Larissa
 
 [Mendo](https://www.mendo.nl/)
