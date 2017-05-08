@@ -1,15 +1,15 @@
 # Hausaufgabe
 
-## Aufgabe
+## Zeitplan
 
 ### bis 2. Juni
 
-– 2er-Teams bilden
+- 2er-Teams bilden
 - interessante Website suchen, ein Element herausgreifen
 
 ### bis 16. Juni
 
-– herausfinden, wie das gemacht ist
+- herausfinden, wie das gemacht ist
 – selber machen, Varianten erproben
 
 ## Ziel
