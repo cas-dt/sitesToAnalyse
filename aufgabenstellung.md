@@ -36,6 +36,13 @@ Es ist nicht wichtig, ob es JavaScript oder reines HTML/CSS ist.
 
 Empfehlenswert sind Seiten, die von kleineren Agenturen wie [Bänziger Hug](http://www.baenziger-hug.com/), [Studio Feixen](http://www.studiofeixen.ch/) oder [avant la lettre](https://www.avantlalettre.ch/) gemacht wurden. Je grösser die Agentur, desto grösser die Wahrscheinlichkeit, dass der Quelltext nicht mehr nachvollziehbar ist.
 
+Die folgenden Seiten finde ich geeigent. Ihr könnt gerne weitere Vorschläge machen.
+
+- [Arthur Junior](http://arthurjunior.ch/de)
+- [Klauser Design](http://www.klauser-design.ch/)
+- [Species in Pieces](http://species-in-pieces.com/)
+- [Oto Nove Swiss](http://www.otonoveswiss.co.uk/)
+
 ## Vorschlag für das Vorgehen
 
 - Website wählen
