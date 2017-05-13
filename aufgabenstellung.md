@@ -10,27 +10,27 @@
 ### bis 16. Juni
 
 - herausfinden, wie das gemacht ist
-– selber machen, Varianten erproben
+- selber machen, Varianten erproben
 
 ## Ziel
 
 - üben des Umgangs mit Dev Tools und dem Browser allgemein
-– üben HTML/CSS/JS
-– aneignen analytische Fähigkeiten
+- üben HTML/CSS/JS
+- aneignen analytische Fähigkeiten
 
 ## Beispiele
 
 - SVG-Grafik (Filter, Verläufe, etc.)
 - Canvas Animation
 - CSS-Layout, das den Document-Flow aushebelt
-– CSS-Animation
+- CSS-Animation
 
 Es ist nicht wichtig, ob es JavaScript oder reines HTML/CSS ist.
 
-## Werkzeuge
+## Werkzeuge
 
-– Browser (Quelltextansicht und Dev Tools)
-– Codepen zum basteln (Atom mit lokalen Dateien natürlich auch ok).
+- Browser (Quelltextansicht und Dev Tools)
+- Codepen zum basteln (Atom mit lokalen Dateien natürlich auch ok).
 
 ## Geeignete Seiten
 
@@ -48,7 +48,7 @@ Die folgenden Seiten finde ich geeigent. Ihr könnt gerne weitere Vorschläge ma
 - Website wählen
 - Entscheiden, welche Elemente von Interesse sind
 - Website im Browser öffnen (empfohlen: Chrome oder Firefox)
-– Quelltext öffnen, mit Textsuche Script-Tags und Stylesheet-Links finden
+- Quelltext öffnen, mit Textsuche Script-Tags und Stylesheet-Links finden
 - JS und CSS finden – ist es a) lesbar oder b) Zeichensalat? (falls b) mit anderer Seite von vorne beginnen)
 - codePen öffnen, und basteln (trial & error, bis es läuft)
 
